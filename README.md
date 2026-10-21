@@ -10,8 +10,6 @@ A seven-page Power BI report built for **Vertex Commerce**, a fictional omnichan
 
 ![Executive Overview — Power BI dashboard](painel_executive.png)
 
-*If the preview does not load, upload your screenshot to `images/executive-overview.png` (or change the path above to match your filename).*
-
 ## Business Objective
 
 Design a centralized analytics experience that helps stakeholders answer questions such as:
@@ -91,8 +89,8 @@ Measures span several business areas:
 
 ### Additional Screenshots
 
-- [Sales & Profitability](images/sales-profitability.png)
-- [Customer Analytics](images/customer-analytics.png)
+- [Sales & Profitability](painel_sales.png)
+- [Customer Analytics](painel_customer.png)
 - [Marketing Performance](images/marketing-performance.png)
 - [Returns & Quality](images/returns-quality.png)
 - [Regional Targets](images/regional-targets.png)
