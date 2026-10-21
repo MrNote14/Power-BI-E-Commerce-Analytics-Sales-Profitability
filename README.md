@@ -59,7 +59,7 @@ The report uses a dimensional approach with these core tables:
 
 The calendar dimension supports time-intelligence analysis. Shared dimensions are used to filter related facts; sales and returns are analyzed at their respective transaction/date granularities, while marketing and targets are recorded monthly.
 
-![Power BI relationship model](images/data-model.png)
+![Power BI relationship model](painel_relation.png)
 
 ## DAX & KPIs
 
@@ -91,10 +91,10 @@ Measures span several business areas:
 
 - [Sales & Profitability](painel_sales.png)
 - [Customer Analytics](painel_customer.png)
-- [Marketing Performance](images/marketing-performance.png)
-- [Returns & Quality](images/returns-quality.png)
-- [Regional Targets](images/regional-targets.png)
-- [Product Detail](images/product-detail.png)
+- [Marketing Performance](painel_marketing.png)
+- [Returns & Quality](painel_return.png)
+- [Regional Targets](painel_regional.png)
+- [Product Detail](painel_detail.png)
 
 ## Interactivity & User Experience
 
