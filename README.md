@@ -124,31 +124,10 @@ This report is designed to support decisions such as:
 - **Targets:** Monthly targets are independently simulated and can differ substantially from actual sales. Variances should be interpreted in that context.
 - **Filters:** The values displayed in screenshots may reflect selected categories, regions, or periods rather than the company-wide total.
 
-## Repository Structure
-
-```text
-vertex-commerce-power-bi/
-├── README.md
-├── Vertex_Commerce_Analytics.pbix
-├── dataset/
-│   └── powerbi_ecommerce_portfolio_raw.xlsx
-└── images/
-    ├── executive-overview.png
-    ├── sales-profitability.png
-    ├── customer-analytics.png
-    ├── marketing-performance.png
-    ├── returns-quality.png
-    ├── regional-targets.png
-    ├── product-detail.png
-    └── data-model.png
-```
-
-*The filenames above are a suggested organization. Update this README if your uploaded files use different names.*
-
 ## How to Explore the Project
 
 1. Download or clone this repository.
-2. Open `Vertex_Commerce_Analytics.pbix` in **Power BI Desktop**.
+2. Open `Vertex Commerce — Omnichannel E-Commerce Analytics.pbix` in **Power BI Desktop**.
 3. If prompted, update the Excel source path in **Transform data → Data source settings** to the location of the workbook inside `dataset/`.
 4. Select **Refresh** to load data from the local Excel file.
 5. Navigate through the report pages, test slicers, and use **Drill-through → Product Detail** from a product visual.
