@@ -8,7 +8,7 @@ A seven-page Power BI report built for **Vertex Commerce**, a fictional omnichan
 
 ## Dashboard Preview
 
-![Executive Overview — Power BI dashboard](images/executive-overview.png)
+![Executive Overview — Power BI dashboard](painel_executive.png)
 
 *If the preview does not load, upload your screenshot to `images/executive-overview.png` (or change the path above to match your filename).*
 
